@@ -3,7 +3,7 @@
 
 ### Project Description  
 
-This is a two-player pong game, where each player has his own seperate window and they can choose to play, either simultaneously on the same computer or on two different computers. 
+This is a two-player pong game, where each player has his own seperate window and they can choose to play, either simultaneously on the same computer or on two different computers. This game was implemented using pipes system calls, forking and POSIX threads.
 
 
 ### Programming Language 
