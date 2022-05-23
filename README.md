@@ -8,7 +8,7 @@ This is a two-player pong game, where each player has his own seperate window an
 
 ### Programming Language 
 
-This project was implemented using C/C++ programming languages.
+This project was implemented using C programming language.
 
 ### How To Compile The Program ? 
 
